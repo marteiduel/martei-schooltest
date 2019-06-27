@@ -1,0 +1,8 @@
+I need an app to track students for a school
+I want to tracj amount paid per student 
+I want to track how much a class costs to run 
+I want to track students grades
+How many instructors per amount of students
+Attendance student success rate  
+student projects  
+Prescreen ing requirements for students 

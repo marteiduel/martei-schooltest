@@ -1,0 +1,23 @@
+{
+  "name": "student_tracker",
+  "version": "0.1.0",
+  "description": "Just for practice",
+  "main": "school.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marteiduel/martei-schooltest.git"
+  },
+  "keywords": [
+    "school",
+    "test"
+  ],
+  "author": "Martei <marteiwgc@gmail.com> (https://github.com/marteiduel)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marteiduel/martei-schooltest/issues"
+  },
+  "homepage": "https://github.com/marteiduel/martei-schooltest#readme"
+}
